@@ -1,6 +1,7 @@
 <template>
   <span class="bubble">
     {{ num }}
+    234
   </span>
 </template>
 
