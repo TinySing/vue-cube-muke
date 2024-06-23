@@ -4,6 +4,8 @@
       <div class="cart-decrease" v-show="food.count>0" @click.stop="decrease">
         <span class="inner icon-remove_circle_outline"></span>
       </div>
+      123
+      123
     </transition>
     <div class="cart-count" v-show="food.count>0">{{food.count}}</div>
     <div class="cart-add icon-add_circle" @click.stop="add"></div>
